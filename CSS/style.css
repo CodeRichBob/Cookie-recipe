@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  color: brown;
+  font-family: sans-serif;
+}
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: green;
+}
